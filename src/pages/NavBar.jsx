@@ -36,7 +36,7 @@ function NavBar() {
                         >
                             Recherche
                         </Link>
-                        <Link 
+                        {/* <Link 
                             to="/ajouter" 
                             className={`px-3 py-2 text-sm font-medium rounded-md transition duration-150 ease-in-out
                                 ${isActive('/ajouter') 
@@ -44,7 +44,7 @@ function NavBar() {
                                     : 'text-indigo-100 hover:bg-indigo-700 hover:text-white'}`}
                         >
                             Ajouter un Film
-                        </Link>
+                        </Link> */}
                     </nav>
 
                     {/* Menu mobile */}
